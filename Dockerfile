@@ -1,4 +1,4 @@
-FROM nginx:alphine
+FROM nginx:latest
 
 WORKDIR /app
 
